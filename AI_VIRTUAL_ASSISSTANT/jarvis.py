@@ -1,5 +1,3 @@
-#AI-POWERED VIRTUAL ASSISSTANT
-
 import win32com.client
 import speech_recognition as sr
 import pyaudio
