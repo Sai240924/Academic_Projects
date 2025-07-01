@@ -38,8 +38,12 @@ python jarvis.py
 The weather feature uses the OpenWeatherMap API. The API key is currently hardcoded in the script. You can replace the API key in the script with your own key if needed.
 
 ## Project Output (Screenshots)
-Screenshots here are to showcase Jarvis AI in action, such as voice command recognition, website opening, language translation, and weather updates.*
+Screenshots here are to showcase Jarvis AI in action, such as voice command recognition, website opening, language translation, and weather updates.
 
-![Language_Translator](l.png)   ![alt text](ap.png)
+<img width="669" alt="l" src="https://github.com/user-attachments/assets/e90d5c1a-958e-489b-bfd9-df1ade8d49bf" />
 
-![alt text](yt.png)   ![alt text](w.png)
+<img width="693" alt="ap" src="https://github.com/user-attachments/assets/6e6ad365-595b-47e2-ab67-bf3204580a41" />
+
+<img width="672" alt="yt" src="https://github.com/user-attachments/assets/d088eb61-0d4a-4e8b-a81d-a1de701716c9" />
+
+<img width="594" alt="w" src="https://github.com/user-attachments/assets/e2625cff-8fd4-4482-91e5-ecdb0a552eb5" />
