@@ -40,10 +40,13 @@ The weather feature uses the OpenWeatherMap API. The API key is currently hardco
 ## Project Output (Screenshots)
 Screenshots here are to showcase Jarvis AI in action, such as voice command recognition, website opening, language translation, and weather updates.
 
-<img width="669" alt="l" src="https://github.com/user-attachments/assets/e90d5c1a-958e-489b-bfd9-df1ade8d49bf" />
+<img width="669" alt="l" src="https://github.com/user-attachments/assets/6a31bf9b-8925-48e6-a3ea-6ef6c2e70dfe" />
 
-<img width="693" alt="ap" src="https://github.com/user-attachments/assets/6e6ad365-595b-47e2-ab67-bf3204580a41" />
 
-<img width="672" alt="yt" src="https://github.com/user-attachments/assets/d088eb61-0d4a-4e8b-a81d-a1de701716c9" />
+<img width="693" alt="ap" src="https://github.com/user-attachments/assets/81c61c09-735d-4d1d-b1cd-3ba8f2bc5646" />
 
-<img width="594" alt="w" src="https://github.com/user-attachments/assets/e2625cff-8fd4-4482-91e5-ecdb0a552eb5" />
+
+<img width="672" alt="yt" src="https://github.com/user-attachments/assets/fec126a7-60c3-4509-9ca7-6fe52f0776b6" />
+
+
+<img width="594" alt="w" src="https://github.com/user-attachments/assets/9b0416e5-2e2b-4d9b-8a59-70c0b25699aa" />
