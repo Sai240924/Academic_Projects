@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #cad8c2;
+}
+
+header {
+    font-family:'Times New Roman', Times, serif ;
+    background-color: #3e392e;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+main {
+    padding: 2rem;
+}
+
+.car-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.car-item {
+    background-color: white;
+    padding: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: calc(17.8rem);
+    box-sizing: border-box;
+}
+
+.car-item img {
+    max-width: 100%;
+    height: auto;
+    border-bottom: 1px solid #ddd;
+}
+
+.car-item h3 {
+    margin-top: 0.5rem;
+}
+
+.car-item p {
+    margin: 0.5rem 0;
+}
+
+.car-item button {
+    display: block;
+    width: 100%;
+    padding: 0.5rem;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+.car-item button:hover {
+    background-color: #555;
+}

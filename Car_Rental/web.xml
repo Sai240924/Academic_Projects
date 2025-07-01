@@ -1,0 +1,11 @@
+web.xml
+<web-app>
+    <servlet>
+        <servlet-name>CarSystem</servlet-name>
+        <servlet-class>CarSystem</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CarSystem</servlet-name>
+        <url-pattern>/CarSystem</url-pattern>
+    </servlet-mapping>
+</web-app>
